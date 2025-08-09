@@ -6,7 +6,7 @@ home__data-title
 Explore The <br> Best <b>Beautiful <br> Beaches</b>
 
 home__social
-https://www.facebook.com/
+https://www.facebook.com/SashaPersholja/
 https://www.instagram.com/
 https://twitter.com/
 
@@ -74,5 +74,6 @@ footer__copy
 footer__terms-link
 Terms & Agreements
 Privacy Policy
+
 
 
